@@ -48,7 +48,7 @@ export default function KritikSaranPage() {
 
             <input
               name="name"
-              placeholder="Nama (opsional)"
+              placeholder="email (opsional)"
               className="w-full bg-black border border-white/30 px-4 py-3 rounded"
             />
 
