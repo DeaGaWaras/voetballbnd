@@ -51,7 +51,7 @@ export default function KritikSaranPage() {
               placeholder="email (opsional)"
               className="w-full bg-black border border-white/30 px-4 py-3 rounded"
             />
-
+  
             <textarea
               name="message"
               required

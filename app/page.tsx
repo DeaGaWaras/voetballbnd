@@ -6,7 +6,7 @@ import { ShoppingBag, MessageCircle } from "lucide-react";
 import { SiInstagram, SiWhatsapp, SiTiktok, SiShopee } from "react-icons/si";
 
 const links = [
-  { label: "Katalog Produk", icon: ShoppingBag, href: "/katalog_1", primary: true },
+  { label: "Katalog Produk", icon: ShoppingBag, href: "/katalog", primary: true },
   { label: "Instagram", icon: SiInstagram, href: "https://instagram.com/voetballbnd_subculture" },
   { label: "Tiktok", icon: SiTiktok, href: "https://www.tiktok.com/@voetballbondsubculture" },
   { label: "WhatsApp", icon: SiWhatsapp, href: "https://wa.me/6285701722142" },
