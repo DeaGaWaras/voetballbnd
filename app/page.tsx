@@ -4,12 +4,14 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { ShoppingBag, MessageCircle } from "lucide-react";
 import { SiInstagram, SiWhatsapp, SiTiktok, SiShopee } from "react-icons/si";
+import { RiWechatChannelsLine } from "react-icons/ri";
 
 const links = [
   { label: "Katalog Produk", icon: ShoppingBag, href: "/katalog", primary: true },
   { label: "Instagram", icon: SiInstagram, href: "https://instagram.com/voetballbnd_subculture" },
   { label: "Tiktok", icon: SiTiktok, href: "https://www.tiktok.com/@voetballbondsubculture" },
   { label: "WhatsApp", icon: SiWhatsapp, href: "https://wa.me/6285701722142" },
+  { label: "Channels", icon: RiWechatChannelsLine, href: "https://whatsapp.com/channel/0029VbBZBeQ6WaKlBMvXZE19" },
   { label: "Shopee", icon: SiShopee, href: "/not-found" },
   { label: "Kritik & Saran", icon: MessageCircle, href: "/kritik-saran" },
 ];
