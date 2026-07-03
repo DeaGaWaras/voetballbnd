@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Voetballbond",
-  description: "Kalcer football culture brand",
+  title: "Voetballsub",
+  description: "Suarabaya football culture brand",
 };
 
 export default function RootLayout({

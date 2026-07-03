@@ -64,17 +64,17 @@ export default function Home() {
         <div className="flex flex-col items-center">
           <Image
             src="/profile_bg.jpeg"
-            alt="Voetballbond"
+            alt="Voetballsub"
             width={120}
             height={120}
             className="rounded-full border-2 border-green-400 shadow-lg shadow-green-400/20"
           />
 
           <h1 className="mt-4 text-2xl font-bold tracking-wide text-white">
-            @Subculture
+            @voetballsub
           </h1>
           <p className="text-zinc-400 text-sm mt-1">
-            Voetballbond SubCulture
+            VoetBallSub For Everyone
           </p>
         </div>
 
@@ -108,7 +108,7 @@ export default function Home() {
         </div>
 
         <p className="mt-10 text-xs text-zinc-500">
-          © 2026 Voetballbond — Made for football culture
+          © 2026 VoetBallSub — Made for Surabaya culture
         </p>
       </section>
     </main>
